@@ -1,4 +1,4 @@
-### Hi there it's Amjad 👩‍🦳
+### Hi there, it's Amjad 👩‍🦳
 
 <!--
 **AmjadAlsulami/amjadalsulami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
