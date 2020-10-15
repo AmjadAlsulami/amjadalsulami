@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning Data science with R
 - 👯 I’m looking to collaborate on ML/DL projects
 
-
+|📊[https://www.kaggle.com/amjadalsulami]|📥[http://www.linkedin.com/in/amjadalsulami]|
